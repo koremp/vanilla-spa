@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-spa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/koremp/vanilla-spa",
+  "author": "임도균 <im.koremp@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "sass": "^1.39.0",
+    "scss": "^0.2.4",
+    "vite": "^2.5.6"
+  }
+}
